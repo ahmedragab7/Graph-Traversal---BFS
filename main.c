@@ -105,7 +105,7 @@ int main()
     //printf("num of rel:%d",a.counter);
 
 
-   //print(3);
-   BFS(2);
+   //print all graph 
+   BFS(4);
     return 0;
 }
