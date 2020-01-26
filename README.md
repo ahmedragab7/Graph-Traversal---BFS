@@ -15,3 +15,5 @@ Step 2 - Select any vertex as starting point for traversal. Visit that vertex an
 •	Step 4 - When there is no new vertex to be visited from the vertex which is at front of the Queue then delete that vertex.
 •	Step 5 - Repeat steps 3 and 4 until queue becomes empty.
 •	Step 6 - When queue becomes empty, then produce final spanning tree by removing unused edges from the graph
+![image](https://user-images.githubusercontent.com/40636325/73134755-ea3b5e80-4042-11ea-8095-2b4e420e1f70.png)
+
